@@ -1,0 +1,9 @@
+D:\Учеба\Теория информации\курсовая работа\HuffmanAlgorithm\HuffmanAlgorithm\bin\Debug\HuffmanAlgorithm.exe.config
+D:\Учеба\Теория информации\курсовая работа\HuffmanAlgorithm\HuffmanAlgorithm\bin\Debug\HuffmanAlgorithm.exe
+D:\Учеба\Теория информации\курсовая работа\HuffmanAlgorithm\HuffmanAlgorithm\bin\Debug\HuffmanAlgorithm.pdb
+D:\Учеба\Теория информации\курсовая работа\HuffmanAlgorithm\HuffmanAlgorithm\obj\Debug\HuffmanAlgorithm.csprojResolveAssemblyReference.cache
+D:\Учеба\Теория информации\курсовая работа\HuffmanAlgorithm\HuffmanAlgorithm\obj\Debug\HuffmanAlgorithm.Form1.resources
+D:\Учеба\Теория информации\курсовая работа\HuffmanAlgorithm\HuffmanAlgorithm\obj\Debug\HuffmanAlgorithm.Properties.Resources.resources
+D:\Учеба\Теория информации\курсовая работа\HuffmanAlgorithm\HuffmanAlgorithm\obj\Debug\HuffmanAlgorithm.csproj.GenerateResource.Cache
+D:\Учеба\Теория информации\курсовая работа\HuffmanAlgorithm\HuffmanAlgorithm\obj\Debug\HuffmanAlgorithm.exe
+D:\Учеба\Теория информации\курсовая работа\HuffmanAlgorithm\HuffmanAlgorithm\obj\Debug\HuffmanAlgorithm.pdb
